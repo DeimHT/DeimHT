@@ -44,9 +44,7 @@ Ecosistema Full-Stack desarrollado para una fotógrafa profesional, compuesto po
 - Dashboard y métricas
 - Gestión de eventos y galerías
 - Pedidos online y ventas presenciales
-- Agenda
 - Gestión de clientes y servicios
-- CMS para administrar contenido del sitio
 - Control de acceso administrativo
 
 **Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Cloudflare R2 · Transbank · Resend · Vercel
@@ -58,4 +56,4 @@ Ecosistema Full-Stack desarrollado para una fotógrafa profesional, compuesto po
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/dieter-heim/)
-- [GitHub](https://github.com/DeimHT)
+- [Email](dieterddht@gmail.com)
